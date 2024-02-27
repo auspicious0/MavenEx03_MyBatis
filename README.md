@@ -121,8 +121,8 @@ eclipse로 넘어와 alt f5를 눌러 maven project를 최신화 해준다.
   <resource>
     <directory>src/test/resources</directory>
   </resource>
-</resources>
-  </build>
+ </resources>
+</build>
 ```
 
 위의 부분은 build시 src/test/resources 폴더를 classpath로 추가하는 부분이다. 
